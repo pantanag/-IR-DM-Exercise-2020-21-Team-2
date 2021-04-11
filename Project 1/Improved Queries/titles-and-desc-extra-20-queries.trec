@@ -1,0 +1,508 @@
+<parameters>
+<index>/home/pantazis/Downloads/IR-2019-2020-Project-1/indices/example</index>
+<rule>method:dirichlet,mu:1000</rule>
+<count>1000</count>
+<trecFormat>true</trecFormat>
+<query> <type>indri</type> <number>301</number> <text>#weight(0.4 #combine(International Organized Crime 
+ Identify organizations that participate in international criminal
+activity the activity and if possible collaborating organizations
+and the countries involved) 0.6 #combine(law mafia report also one program police state investigate country illegal case said information draft dia russia use evidence official))</text> </query>
+<query> <type>indri</type> <number>302</number> <text>#weight(0.4 #combine(Poliomyelitis and Post Polio 
+ Is the disease of Poliomyelitis polio under control in the
+world) 0.6 #combine(vaccine health information children public program case immunize eradicate national material year america new service years one project organization development))</text> </query>
+<query> <type>indri</type> <number>303</number> <text>#weight(0.4 #combine(Hubble Telescope Achievements 
+ Identify positive accomplishments of the Hubble telescope since it
+was launched in 1991) 0.6 #combine(space said nasa shuttle discovery test mirror would two flight earth one power astronomer mission agency project universe years unit))</text> </query>
+<query> <type>indri</type> <number>304</number> <text>#weight(0.4 #combine(Endangered Species Mammals 
+ Compile a list of mammals that are considered to be endangered
+identify their habitat and if possible specify what threatens them) 0.6 #combine(issue policy vote act stock sro rule rights action commission class service section propose may company comment marine would shareholder))</text> </query>
+<query> <type>indri</type> <number>305</number> <text>#weight(0.4 #combine(Most Dangerous Vehicles 
+ Which are the most crashworthy and least crashworthy 
+passenger vehicles) 0.6 #combine(safety information comment nhtsa ncap agency motor use car national report bus school public new consumer highway test traffic research))</text> </query>
+<query> <type>indri</type> <number>306</number> <text>#weight(0.4 #combine(African Civilian Deaths 
+ How many civilian non combatants have been killed in 
+the various civil wars in Africa) 0.6 #combine(government un said country troops rwanda mr people army politics france may conflict would guerrilla rebel international use military one))</text> </query>
+<query> <type>indri</type> <number>307</number> <text>#weight(0.4 #combine(New Hydroelectric Projects 
+ Identify hydroelectric projects proposed or under construction by
+country and location  Detailed description of nature extent
+purpose problems and consequences is desirable) 0.6 #combine(file application power would 1994 federal river applicant contact public commission county notice comment issue act information section date activity))</text> </query>
+<query> <type>indri</type> <number>308</number> <text>#weight(0.4 #combine(Implant Dentistry 
+ What are the advantages and or disadvantages of tooth implants) 0.6 #combine(service health home comment care beneficiary requirement device patient medicare require medical aide furnish visit cover physician section skilled coverage))</text> </query>
+<query> <type>indri</type> <number>309</number> <text>#weight(0.4 #combine(Rap and Crime 
+ Evidence that rap music has a negative effect on young people) 0.6 #combine(record said video japan new black like one album artist say go show company get dont song la make may))</text> </query>
+<query> <type>indri</type> <number>310</number> <text>#weight(0.4 #combine(Radio Waves and Brain Cancer 
+ Evidence that radio waves from radio towers or car phones affect
+brain cancer occurrence) 0.6 #combine(said field use mri study cellular system service would research power us new say could frequency patient telephone also mobile))</text> </query>
+<query> <type>indri</type> <number>311</number> <text>#weight(0.4 #combine(Industrial Espionage 
+ Document will discuss the theft of trade secrets along with 
+the sources of information  trade journals business meetings
+data from Patent Offices trade shows or analysis of a 
+competitor products) 0.6 #combine(ver company export market mr said vw investigate country strategy lopez group price import industry enterprise say agreement corporate also))</text> </query>
+<query> <type>indri</type> <number>312</number> <text>#weight(0.4 #combine(Hydroponics 
+ Document will discuss the science of growing plants in
+water or some substance other than soil) 0.6 #combine(garden said research use succulent one nursery amendment also variety new may tomato area add center cacti cactus many hazardous))</text> </query>
+<query> <type>indri</type> <number>313</number> <text>#weight(0.4 #combine(Magnetic Levitation Maglev 
+ Commercial uses of Magnetic Levitation) 0.6 #combine(train said speed would project germany system railway technology line highspee test track high rail development france superconduct car service))</text> </query>
+<query> <type>indri</type> <number>314</number> <text>#weight(0.4 #combine(Marine Vegetation 
+ Commercial harvesting of marine vegetation such as 
+algae seaweed and kelp for food and drug purposes) 0.6 #combine(area sanctuary forest said propose management use fishery national habitat bay environmental california action also monterey comment may activity plan))</text> </query>
+<query> <type>indri</type> <number>315</number> <text>#weight(0.4 #combine(Unexplained Highway Accidents
+ How many fatal highway accidents are there each 
+year that are not resolved as to cause) 0.6 #combine(said driver test vehicle report california car state traffic 1 fra number road along would form pch stretch railroad 5))</text> </query>
+<query> <type>indri</type> <number>316</number> <text>#weight(0.4 #combine(Polygamy Polyandry Polygyny  
+ A look at the roots and prevalence of polygamy 
+in the world today) 0.6 #combine(women per government cent said country tunisia mr aids one many lebanon party year diderot say khmer islam even politics))</text> </query>
+<query> <type>indri</type> <number>317</number> <text>#weight(0.4 #combine(Unsolicited Faxes 
+ Have regulations been passed by the FCC banning
+junk facsimile fax  If so are they effective) 0.6 #combine(machine bill said would use computer pc send committee call modem system sent phone business message one company document paper))</text> </query>
+<query> <type>indri</type> <number>318</number> <text>#weight(0.4 #combine(Best Retirement Country 
+ Aside from the United States which country offers 
+the best living conditions and quality of life for 
+a US retiree) 0.6 #combine(said japan america plan pension company new people china one many team years would issue may world health change however))</text> </query>
+<query> <type>indri</type> <number>319</number> <text>#weight(0.4 #combine(New Fuel Sources 
+ What research is ongoing for new fuel sources) 0.6 #combine(power energy electric license material cell technology development 1 program company project fee inspection amendment use 1994 cost file may))</text> </query>
+<query> <type>indri</type> <number>320</number> <text>#weight(0.4 #combine(Undersea Fiber Optic Cable 
+ Fiber optic link around the globe Flag will be
+the world longest undersea fiber optic cable
+Who involved and how extensive is the technology
+on this system  What problems exist) 0.6 #combine(telecommunications telephone service company us new ibm brazil one country fiberoptic signal also line cyprus use pco network said first))</text> </query>
+<query> <type>indri</type> <number>321</number> <text>#weight(0.4 #combine(Women in Parliaments 
+ Pertinent documents will reflect the fact that women
+continue to be poorly represented in parliaments 
+across the world and the gap in political power
+between the sexes is very wide particularly in the
+Third World) 0.6 #combine(politics government russia china europe new also united country economic priest church pay party year states conference one vote first))</text> </query>
+<query> <type>indri</type> <number>322</number> <text>#weight(0.4 #combine(International Art Crime 
+ Isolate instances of fraud or embezzlement in the international
+art trade) 0.6 #combine(bank case economic said russia lerner criminal one first marco foreign money court last new year banking country government also))</text> </query>
+<query> <type>indri</type> <number>323</number> <text>#weight(0.4 #combine(Literary Journalistic Plagiarism 
+ Find instances of plagiarism in the literary and journalistic
+worlds) 0.6 #combine(writer one coleridge new said book america like also first leader write work time use magazine may seem great would))</text> </query>
+<query> <type>indri</type> <number>324</number> <text>#weight(0.4 #combine(Argentine British Relations
+ Define Argentine and British international relations) 0.6 #combine(argentina britain island foreign tella di chile minister oil russia falkland country mr two visit policy government hurd said agreement))</text> </query>
+<query> <type>indri</type> <number>325</number> <text>#weight(0.4 #combine(Cult Lifestyles 
+ Describe a cult by name and identify the cult members
+activities in their everyday life) 0.6 #combine(said one mother constanzo people teresa police mexico sister last student city follower murder hussein found lundgren order kilroy would))</text> </query>
+<query> <type>indri</type> <number>326</number> <text>#weight(0.4 #combine(Ferry Sinkings  
+ Any report of a ferry sinking where 100 or more people
+lost their lives) 0.6 #combine(safety estonia ship said bow imo vessel maritime door mr loss international sea would government also deck passenger water sweden))</text> </query>
+<query> <type>indri</type> <number>327</number> <text>#weight(0.4 #combine(Modern Slavery 
+ Identify a country or a city where there is evidence
+of human slavery being practiced in the eighties or
+nineties) 0.6 #combine(crime one organized people said iraq think economic state macedonia problem case government criminal work say us also guatemala use))</text> </query>
+<query> <type>indri</type> <number>328</number> <text>#weight(0.4 #combine(Pope Beatifications
+ Identify an individual that has been beatified by the Pope) 0.6 #combine(church catholic one said vatican america john opus paul escriva also bishop people saint years ii africa many first world))</text> </query>
+<query> <type>indri</type> <number>329</number> <text>#weight(0.4 #combine(Mexican Air Pollution 
+ Mexico City has the worst air pollution in the
+world  Pertinent Documents would contain the
+specific steps Mexican authorities have taken
+to combat this deplorable situation) 0.6 #combine(park government bank industry dollar said mr problem level environmental say us ozone year service plan trade pollutant use quality))</text> </query>
+<query> <type>indri</type> <number>330</number> <text>#weight(0.4 #combine(Iran Iraq Cooperation 
+ This query is looking for examples of cooperation or
+friendly ties between Iran and Iraq or ways in which
+the two countries could be considered allies) 0.6 #combine(country turkey said relations minister foreign region also china issue demirel economic yalcin development would policy tehran regional politics state))</text> </query>
+<query> <type>indri</type> <number>331</number> <text>#weight(0.4 #combine(World Bank Criticism 
+ What criticisms have been made of World Bank policies 
+activities or personnel) 0.6 #combine(mr project country report would development loan institution said say lend dollar people group ebrd imf years us director policy))</text> </query>
+<query> <type>indri</type> <number>332</number> <text>#weight(0.4 #combine(Income Tax Evasion
+ This query is looking for investigations that have 
+targeted evaders of US income tax) 0.6 #combine(yuan company revenue million per foreign cent said rate percent total people pound one amount would use violate pay switzerland))</text> </query>
+<query> <type>indri</type> <number>333</number> <text>#weight(0.4 #combine(Antibiotics Bacteria Disease 
+ Determine the reasons why bacteria seems to be winning
+the war against antibiotics and rendering antibiotics
+now less effective in treating diseases than they were
+in the past) 0.6 #combine(said infection new cause people pneumonia case syndrome patient drug fever one develop tick health severe resistance year may many))</text> </query>
+<query> <type>indri</type> <number>334</number> <text>#weight(0.4 #combine(Export Controls Cryptography 
+ Determine the usefulness and effectiveness of 
+continuing to maintain export controls on 
+encryption software) 0.6 #combine(standard security information federal agency fip data department may system computer module rule code technology national implement government service application))</text> </query>
+<query> <type>indri</type> <number>335</number> <text>#weight(0.4 #combine(Adoptive Biological Parents 
+ Identify the problems and solutions to those problems 
+which arise in the relationships among biological
+parents adoptive parents and the child or children 
+involved) 0.6 #combine(said adoption baby family mother would birth say service home linda years group time alternative one need care abuse medical))</text> </query>
+<query> <type>indri</type> <number>336</number> <text>#weight(0.4 #combine(Black Bear Attacks 
+ A relevant document would discuss the frequency
+of vicious black bear attacks worldwide and the
+possible causes for this savage behavior) 0.6 #combine(said case peace one police people last two international side community israel also sex white officer game process kill fan))</text> </query>
+<query> <type>indri</type> <number>337</number> <text>#weight(0.4 #combine(Viral Hepatitis 
+ What research has been done on viral hepatitis 
+and what progress has been made in its treatment) 0.6 #combine(use blood cuba infection disease develop test drug country world product laboratory system gene aids virus vaccine percent genetic produce))</text> </query>
+<query> <type>indri</type> <number>338</number> <text>#weight(0.4 #combine(Risk of Aspirin 
+ What adverse effects have people experienced while taking 
+aspirin repeatedly) 0.6 #combine(quinine study drug cramps report treatment leg subject product vitamin use comment nocturnal sulfate muscle reaction ref agency prevention placebo))</text> </query>
+<query> <type>indri</type> <number>339</number> <text>#weight(0.4 #combine(Alzheimer Drug Treatment 
+ What drugs are being used in the treatment of 
+Alzheimer Disease and how successful are they) 0.6 #combine(patient said 21 research study discovery cfr product deprenyl fda new brain dementia test may clinical aids application would one))</text> </query>
+<query> <type>indri</type> <number>340</number> <text>#weight(0.4 #combine(Land Mine Ban 
+ Identify any actions being taken to propel the
+nations of the world toward a treaty banning
+the production transfer and use of land mines) 0.6 #combine(weapon country said asbestos un afghanistan million chemical cambodia united official international would nuclear years program foreign government dollar year))</text> </query>
+<query> <type>indri</type> <number>341</number> <text>#weight(0.4 #combine(Airport Security 
+ A relevant document would discuss how effective
+government orders to better scrutinize passengers
+and luggage on international flights and to step
+up screening of all carry on baggage has been) 0.6 #combine(airline check system aircraft said bags new aviation transport use one explosive year make may terrorist machine britain manchester board))</text> </query>
+<query> <type>indri</type> <number>342</number> <text>#weight(0.4 #combine(Diplomatic Expulsion 
+ The end of the Cold War seems to have intensified
+economic competition and has started to generate 
+serious friction between nations as attempts are 
+made by diplomatic personnel to acquire sensitive
+trade and technology information or to obtain 
+information on highly classified industrial projects
+Identify instances where attempts have been made 
+by personnel with diplomatic status to obtain 
+information of this nature) 0.6 #combine(japan intelligence security united states said soviet government europe world military asia country international foreign relations system new policy russia))</text> </query>
+<query> <type>indri</type> <number>343</number> <text>#weight(0.4 #combine(Police Deaths
+ Identify instances where a civilian policeman has
+been killed either during performance of his duty
+or because of other association with this occupation
+eg killed for the gun to keep from testifying 
+etc) 0.6 #combine(said officer one sibanyoni two black shot seat belt border patrol shoot machine jackson suspect also car unit home court))</text> </query>
+<query> <type>indri</type> <number>344</number> <text>#weight(0.4 #combine(Abuses of E Mail 
+ The availability of E mail to many people through their
+job or school affiliation has allowed for many efficiencies
+in communications but also has provided the opportunity for
+abuses  What steps have been taken world wide by those 
+bearing the cost of E mail to prevent excesses) 0.6 #combine(system email record agency electronic message user information internet service computer may one access data recordkeeping must online shall call))</text> </query>
+<query> <type>indri</type> <number>345</number> <text>#weight(0.4 #combine(Overseas Tobacco Sales 
+ Health studies primarily in the US have caused reductions
+in tobacco sales here but the economic impact has caused
+US tobacco companies to look overseas for customers
+What impact have the health and economic factors had overseas) 0.6 #combine(cigarette smoking per company cent year market said would last dollar industry report country morris philip america new profit brand))</text> </query>
+<query> <type>indri</type> <number>346</number> <text>#weight(0.4 #combine(Educational Standards 
+ There has long been a call for standards in US education
+these calls frequently citing the superiority of foreign 
+school systems  Are there many countries outside the US
+which have standards for pre teen students  If so which
+are those countries and what standards have been set) 0.6 #combine(america country one assessment national europe international state new high 1 would chapter states science business training world work worker))</text> </query>
+<query> <type>indri</type> <number>347</number> <text>#weight(0.4 #combine(Wildlife Extinction 
+ The spotted owl episode in America highlighted US efforts
+to prevent the extinction of wildlife species  What is not
+well known is the effort of other countries to prevent the
+demise of species native to their countries  What other 
+countries have begun efforts to prevent such declines) 0.6 #combine(service application endanger program project plan act said recovery secretary applicant use telecommunications fish may education snake habitat population school))</text> </query>
+<query> <type>indri</type> <number>348</number> <text>#weight(0.4 #combine(Agoraphobia 
+ Is the fear of open or public places Agoraphobia a
+widespread disorder or relatively unknown) 0.6 #combine(said one chemical mental say people years health would may attack panic could new women also two center officer missile))</text> </query>
+<query> <type>indri</type> <number>349</number> <text>#weight(0.4 #combine(Metabolism 
+ Document will discuss the chemical reactions 
+necessary to keep living cells healthy and or
+producing energy) 0.6 #combine(use may research one study produce disease free new system brain radical cancer say business also per antibody could damage))</text> </query>
+<query> <type>indri</type> <number>350</number> <text>#weight(0.4 #combine(Health and Computer Terminals 
+ Is it hazardous to the health of individuals to	work
+with computer terminals on a daily basis) 0.6 #combine(system information use russia said set federation railroad aids dow network equipment program permit waste ministry service development state problem))</text> </query>
+<query> <type>indri</type> <number>351</number> <text>#weight(0.4 #combine(Falkland petroleum exploration 
+ What information is available on petroleum exploration in 
+the South Atlantic near the Falkland Islands) 0.6 #combine(argentina britain oil government said would company aires buenos mr seismic waters say year could licence survey foreign war military))</text> </query>
+<query> <type>indri</type> <number>352</number> <text>#weight(0.4 #combine(British Chunnel impact  
+ What impact has the Chunnel had on the British economy and or 
+the life style of the British) 0.6 #combine(france tunnel project britain would channel government link private pound train could london europe house rail use safety eurotunnel uk))</text> </query>
+<query> <type>indri</type> <number>353</number> <text>#weight(0.4 #combine(Antarctica exploration
+ Identify systematic explorations and scientific investigations
+of Antarctica current or planned) 0.6 #combine(technology research development sampt develop new material industry equipment product china production use must energy utilize improve management resources process))</text> </query>
+<query> <type>indri</type> <number>354</number> <text>#weight(0.4 #combine(journalist risks 
+ Identify instances where a journalist has been put at risk eg
+killed arrested or taken hostage in the performance of his work) 0.6 #combine(said people crime police report use yerin also criminal one say investigate us starkov time militia would two affair internal))</text> </query>
+<query> <type>indri</type> <number>355</number> <text>#weight(0.4 #combine(ocean remote sensing 
+ Identify documents discussing the development and application of
+spaceborne ocean remote sensing) 0.6 #combine(research satellite technology use data basic material program 2 1 system laboratory china japan observation radar process survey international 3))</text> </query>
+<query> <type>indri</type> <number>356</number> <text>#weight(0.4 #combine(postmenopausal estrogen Britain
+ Identify documents discussing the use of estrogen by 
+postmenopausal women in Britain) 0.6 #combine(study cancer calcium risk said bone breast hormone 1 drug therapy research disease menopause say age years increase heart also))</text> </query>
+<query> <type>indri</type> <number>357</number> <text>#weight(0.4 #combine(territorial waters dispute 
+ Identify documents discussing international boundary 
+disputes relevant to the 200 mile special economic 
+zones or 12 mile territorial waters subsequent to 
+the passing of the International Convention on the 
+Law of the Sea) 0.6 #combine(japan korea south defense fishing ship government fishery takeshima said country vessel china missile issue military sdf foreign however minister))</text> </query>
+<query> <type>indri</type> <number>358</number> <text>#weight(0.4 #combine(blood alcohol fatalities
+ What role does blood alcohol level play in 
+automobile accident fatalities) 0.6 #combine(said driver boat drunk drink driving arrest people one test year two california new also use 08 chp law county))</text> </query>
+<query> <type>indri</type> <number>359</number> <text>#weight(0.4 #combine(mutual fund predictors 
+ Are there reliable and consistent predictors of
+mutual fund performance) 0.6 #combine(funds market invest investment say life rate company bank charge would price one nscc commission cent interest sell bond bonds))</text> </query>
+<query> <type>indri</type> <number>360</number> <text>#weight(0.4 #combine(drug legalization benefits 
+ What are the benefits if any of drug legalization) 0.6 #combine(legalize would use problem cocaine say kendall even jauvert treatment country must policy war years dealer increase one said people))</text> </query>
+<query> <type>indri</type> <number>361</number> <text>#weight(0.4 #combine(clothing sweatshops 
+ Identify documents that discuss clothing sweatshops) 0.6 #combine(said labor worker garment home sewing manufacturer law work county hour industry pay orange state wage one los angeles immigrant))</text> </query>
+<query> <type>indri</type> <number>362</number> <text>#weight(0.4 #combine(human smuggling 
+ Identify incidents of human smuggling) 0.6 #combine(smuggle illegal border case china said police us city people last also one security hungary constanzo activity drug country investigate))</text> </query>
+<query> <type>indri</type> <number>363</number> <text>#weight(0.4 #combine(transportation tunnel disasters 
+ What disasters have occurred in tunnels used for
+transportation) 0.6 #combine(said fire freeway district nasd would committee collapse water work rule city official section rail one railroad applicant construction metro))</text> </query>
+<query> <type>indri</type> <number>364</number> <text>#weight(0.4 #combine(rabies 
+ Identify documents discussing cases where rabies
+have been confirmed and what if anything is 
+being done about it) 0.6 #combine(security market issue date section rule subscription customer limit public order propose may maker would interest animal submit redemption 1))</text> </query>
+<query> <type>indri</type> <number>365</number> <text>#weight(0.4 #combine(El Nino 
+ What effects have been attributed to El Nino) 0.6 #combine(said weather security california spread warm per cent may disaster year market water peru area temperature pacific cqs 1994 change))</text> </query>
+<query> <type>indri</type> <number>366</number> <text>#weight(0.4 #combine(commercial cyanide uses 
+ What are the industrial or commercial uses of 
+cyanide or its derivatives) 0.6 #combine(waste process production method compound epa work contain treatment thereof wastewater standard mgl concentration water total psychiatric comment sample may))</text> </query>
+<query> <type>indri</type> <number>367</number> <text>#weight(0.4 #combine(piracy 
+ What modern instances have there been of old fashioned
+piracy the boarding or taking control of boats) 0.6 #combine(said fishing island vessel fishery states sea police britain fishermen new eu china waters last iraq spain international security would))</text> </query>
+<query> <type>indri</type> <number>368</number> <text>#weight(0.4 #combine(in vitro fertilization 
+ Identify documents that discuss in vitro
+fertilization) 0.6 #combine(said fertilize egg embryo couple cell davis baby use case johnson center catholic surrogate woman rights national one hospital child))</text> </query>
+<query> <type>indri</type> <number>369</number> <text>#weight(0.4 #combine(anorexia nervosa bulimia 
+ What are the causes and treatments of anorexia nervosa
+and bulimia) 0.6 #combine(say seal one harvest subsistence years said would estimate time island jones work fur comment nmf people wrestle like karen))</text> </query>
+<query> <type>indri</type> <number>370</number> <text>#weight(0.4 #combine(food drug laws 
+ What are the laws dealing with the quality and processing
+of food beverages or drugs) 0.6 #combine(product standard fda information act use public agency health administration international service regulation section states mr may record submit policy))</text> </query>
+<query> <type>indri</type> <number>371</number> <text>#weight(0.4 #combine(health insurance holistic 
+ What is the extent of health insurance coverage of 
+holistic or other non traditional medicine medical treatments
+for example acupuncture) 0.6 #combine(care program plan state said would people system hmo agreement government public also states commission costs service new bill pay))</text> </query>
+<query> <type>indri</type> <number>372</number> <text>#weight(0.4 #combine(Native American casino
+ Identify documents that discuss the growth of Native
+American casino gambling) 0.6 #combine(gamble vega las dollar city new said one indian circus reservation state years game hotel nevada people say community pequot))</text> </query>
+<query> <type>indri</type> <number>373</number> <text>#weight(0.4 #combine(encryption equipment export 
+ Identify documents that discuss the concerns of
+the United States regarding the export of 
+encryption equipment) 0.6 #combine(standard security use federal cryptography system information service gsm fip impact may agency participate data requirement technology module department shall))</text> </query>
+<query> <type>indri</type> <number>374</number> <text>#weight(0.4 #combine(Nobel prize winners 
+ Identify and provide background information on Nobel
+prize winners) 0.6 #combine(science award said school new technology mr people two get first years academy china world book peace physics public international))</text> </query>
+<query> <type>indri</type> <number>375</number> <text>#weight(0.4 #combine(hydrogen energy 
+ What is the status of research on hydrogen as a 
+feasible energy source) 0.6 #combine(power technology nuclear use irradiate development rampd test develop system generation ion fuel current solar japan plan fusion neutron plant))</text> </query>
+<query> <type>indri</type> <number>376</number> <text>#weight(0.4 #combine(World Court 
+ What types of cases were heard by the World Court
+International Court of Justice) 0.6 #combine(law intellectual property china rights people protection system patent legal administrative trademark infringe government said also decision years judge council))</text> </query>
+<query> <type>indri</type> <number>377</number> <text>#weight(0.4 #combine(cigar smoking 
+ Identify documents that discuss the renewed 
+popularity of cigar smoking) 0.6 #combine(said area shell tobacco would smoke smoker go one cuba cigarette part sukhadwala even health like america people market ban))</text> </query>
+<query> <type>indri</type> <number>378</number> <text>#weight(0.4 #combine(euro opposition 
+ Identify documents that discuss opposition to the
+introduction of the euro the European currency) 0.6 #combine(mr would government said britain labour party major eurosceptic treaty maastricht tory union conservative minister one referendum vote social germany))</text> </query>
+<query> <type>indri</type> <number>379</number> <text>#weight(0.4 #combine(mainstreaming 
+ Identify documents that discuss mainstreaming
+children with physical or mental impairments) 0.6 #combine(individual medical disability functional activity work service said school use ability ssa chernobyl education psychological means determine student research one))</text> </query>
+<query> <type>indri</type> <number>380</number> <text>#weight(0.4 #combine(obesity medical treatment 
+ Identify documents that discuss medical treatment
+of obesity) 0.6 #combine(diet disease heart fat may cholesterol committee risk drug blood high claim health said public product study weight saturate low))</text> </query>
+<query> <type>indri</type> <number>381</number> <text>#weight(0.4 #combine(alternative medicine 
+ What forms of alternative medicine are being
+used in the treatment of illnesses or diseases
+and how successful are they) 0.6 #combine(drug research patient medical say one cuba develop years doctor cell also people system aids health gene blood new virus))</text> </query>
+<query> <type>indri</type> <number>382</number> <text>#weight(0.4 #combine(hydrogen fuel automobiles 
+ Identify documents that discuss the use of hydrogen as 
+a fuel for piston driven automobiles safe storage a
+concern or the use of hydrogen in fuel cells to generate
+electricity to drive the car) 0.6 #combine(technology vehicle engine battery gas research energy material also system develop range driving body power alloy motor produce weight problem))</text> </query>
+<query> <type>indri</type> <number>383</number> <text>#weight(0.4 #combine(mental illness drugs
+ Identify drugs used in the treatment of mental illness) 0.6 #combine(health said facility psychiatric patient may one problem shall program service care disease people depression medical disorder also river means))</text> </query>
+<query> <type>indri</type> <number>384</number> <text>#weight(0.4 #combine(space station moon 
+ Identify documents that discuss the building of
+a space station with the intent of colonizing the
+moon) 0.6 #combine(mars said would mission program years bush aldrin nasa could time manned president one project america go first system earth))</text> </query>
+<query> <type>indri</type> <number>385</number> <text>#weight(0.4 #combine(hybrid fuel cars 
+ Identify documents that discuss the current status of
+hybrid automobile engines ie cars fueled by something
+other than gasoline only) 0.6 #combine(vehicle use battery electric technology range material also driving energy research motor body system alloy aluminum weight section new development))</text> </query>
+<query> <type>indri</type> <number>386</number> <text>#weight(0.4 #combine(teaching disabled children 
+ What methods are currently utilized or anticipated in 
+the teaching of disabled children) 0.6 #combine(program school said teacher service disability one years start buckey parent state home head also education system public family would))</text> </query>
+<query> <type>indri</type> <number>387</number> <text>#weight(0.4 #combine(radioactive waste 
+ Identify documents that discuss effective and safe ways to 
+permanently handle long lived radioactive wastes) 0.6 #combine(mixed treatment epa standard nuclear hazardous said capacity control doe requirement use service disposal 3 commission air company power organic))</text> </query>
+<query> <type>indri</type> <number>388</number> <text>#weight(0.4 #combine(organic soil enhancement 
+ Identify documents that discuss the use of organic
+fertilizers composted sludge ash vegetable waste 
+microorganisms etc as soil enhancers) 0.6 #combine(plant capacity treatment rule water service epa agency require technology practice hazardous garden today landscape may also need 1994 result))</text> </query>
+<query> <type>indri</type> <number>389</number> <text>#weight(0.4 #combine(illegal technology transfer 
+ What specific entities have been accused of illegal 
+technology transfer such as selling their products 
+formulas etc directly or indirectly to foreign 
+entities for other than peaceful purposes) 0.6 #combine(money belt control entity country financial institution launder safety adjust fit information comment offset nhtsa also law business seat bank))</text> </query>
+<query> <type>indri</type> <number>390</number> <text>#weight(0.4 #combine(orphan drugs 
+ Find documents that discuss issues associated with so called 
+orphan drugs that is drugs that treat diseases affecting 
+relatively few people) 0.6 #combine(said patient aids company amgen epo research use new say market years year million treatment would health price develop rare))</text> </query>
+<query> <type>indri</type> <number>391</number> <text>#weight(0.4 #combine(R and D drug prices 
+ Identify documents that discuss the impact of the cost of research
+and development R and D on the price of drugs) 0.6 #combine(company rampd cent per pharmaceutical industry spend group year japan dollar market increase say last new medicine glaxo sales healthcare))</text> </query>
+<query> <type>indri</type> <number>392</number> <text>#weight(0.4 #combine(robotics 
+ What are the applications of robotics in the world today) 0.6 #combine(industry say use weld japan europe market new years system company supplier industrial abb per develop cent control automotive work))</text> </query>
+<query> <type>indri</type> <number>393</number> <text>#weight(0.4 #combine(mercy killing 
+ Identify documents that discuss mercy killings) 0.6 #combine(said harp life death people medical would court murder case two years cruzan one religious want treatment suicide pain sentence))</text> </query>
+<query> <type>indri</type> <number>394</number> <text>#weight(0.4 #combine(home schooling 
+ Identify documents that discuss the education of 
+children at home home schooling) 0.6 #combine(student said program college family teacher parent go one many government educational report year would homeless participant time high county))</text> </query>
+<query> <type>indri</type> <number>395</number> <text>#weight(0.4 #combine(tourism 
+ Provide examples of successful attempts to attract 
+tourism as a means to improve a local economy) 0.6 #combine(industry development one county also visitor tourist government country mr per cent year market business investment island new economic ireland))</text> </query>
+<query> <type>indri</type> <number>396</number> <text>#weight(0.4 #combine(sick building syndrome 
+ Identify documents that discuss sick building syndrome or
+building related illnesses) 0.6 #combine(air symptom health risk report effects indoor problem exposure worker cause ex poor sbs quality office may osha headache system))</text> </query>
+<query> <type>indri</type> <number>397</number> <text>#weight(0.4 #combine(automobile recalls
+ Identify documents that discuss the reasons for 
+automobile recalls) 0.6 #combine(vehicle fuel epa manufacturer would car gasoline japan product safety model foreign act import may program seat range section also))</text> </query>
+<query> <type>indri</type> <number>398</number> <text>#weight(0.4 #combine(dismantling Europe arsenal 
+ Identify documents that discuss the 
+European Conventional Arms Cut as it
+relates to the dismantling of Europe
+arsenal) 0.6 #combine(nuclear soviet weapon treaty ukraine gorbachev said missile nato russia agreement forces germany new union pact states would control also))</text> </query>
+<query> <type>indri</type> <number>399</number> <text>#weight(0.4 #combine(oceanographic vessels 
+ Identify documents that discuss the 
+activities or equipment of oceanographic 
+vessels) 0.6 #combine(site disposal dredge material propose monitor epa use area region alternative section san impact shall sfdod sediment marine information 1))</text> </query>
+<query> <type>indri</type> <number>400</number> <text>#weight(0.4 #combine(Amazon rain forest 
+ What measures are being taken by local South
+American authorities to preserve the Amazon
+tropical rain forest) 0.6 #combine(research brazil develop use country technology said mend area program material method project world coal industrial institute also tree one))</text> </query>
+<query> <type>indri</type> <number>401</number> <text>#weight(0.4 #combine(foreign minorities Germany 
+ What language and cultural differences impede the integration 
+of foreign minorities in Germany) 0.6 #combine(europe russia country hungary states baltic minority soviet also minister relations policy economic politics union new said important one cooperation))</text> </query>
+<query> <type>indri</type> <number>402</number> <text>#weight(0.4 #combine(behavioral genetics 
+ What is happening in the field of behavioral genetics
+the study of the relative influence of genetic
+and environmental factors on an individual behavior
+or personality) 0.6 #combine(research said risk say people one may new found exposure result university disorder problem cancer twin hodge program lewis also))</text> </query>
+<query> <type>indri</type> <number>403</number> <text>#weight(0.4 #combine(osteoporosis 
+ Find information on the effects of the dietary intakes
+of potassium magnesium and fruits and vegetables as
+determinants of bone mineral density in elderly men
+and women thus preventing osteoporosis bone decay) 0.6 #combine(calcium 1 risk cup food fat may said claim health cancer fracture 12 study 2 high use supplement product life))</text> </query>
+<query> <type>indri</type> <number>404</number> <text>#weight(0.4 #combine(Ireland peace talks 
+ How often were the peace talks in Ireland delayed
+or disrupted as a result of acts of violence) 0.6 #combine(mr government sinn fein said would ira northern major process reynolds politics britain party could two end yesterday leader constitutional))</text> </query>
+<query> <type>indri</type> <number>405</number> <text>#weight(0.4 #combine(cosmic events 
+ What unexpected or unexplained cosmic events or
+celestial phenomena such as radiation and 
+supernova outbursts or new comets have been detected) 0.6 #combine(universe earth space years asteroid voyager would scientist particle dust matter said astronomer stars big planet solar galaxy could 1))</text> </query>
+<query> <type>indri</type> <number>406</number> <text>#weight(0.4 #combine(Parkinson disease 
+ What is being done to treat the symptoms of 
+Parkinson disease and keep the patient 
+functional as long as possible) 0.6 #combine(alzheimer cell research brain said dementia cause use say may people transplant drug many heart family would also death human))</text> </query>
+<query> <type>indri</type> <number>407</number> <text>#weight(0.4 #combine(poaching wildlife preserves 
+ What is the impact of poaching on 
+the world various wildlife preserves) 0.6 #combine(population africa species trade elephant one say animal ivory conservation years musk year tiger appendix mr kenya leakey forest said))</text> </query>
+<query> <type>indri</type> <number>408</number> <text>#weight(0.4 #combine(tropical storms 
+ What tropical storms hurricanes and typhoons have
+caused significant property damage and loss of life) 0.6 #combine(said dollar wind mph people coast hugo south reinsure carolina flood insurance say increase many north insurer warm area mile))</text> </query>
+<query> <type>indri</type> <number>409</number> <text>#weight(0.4 #combine(legal Pan Am 103 
+ What legal actions have resulted from the destruction
+of Pan Am Flight 103 over Lockerbie Scotland on
+December 21 1988) 0.6 #combine(bomb said us frankfurt people security terrorist airline commission new london plane america investigate disaster york attack report germany jet))</text> </query>
+<query> <type>indri</type> <number>410</number> <text>#weight(0.4 #combine(Schengen agreement 
+ Who is involved in the Schengen agreement to eliminate border
+controls in Western Europe and what do they hope to accomplish) 0.6 #combine(germany ec country france member mr britain system passport internal check lift said minister 1 people would frontier computer nine))</text> </query>
+<query> <type>indri</type> <number>411</number> <text>#weight(0.4 #combine(salvaging shipwreck treasure 
+ Find information on shipwreck salvaging the
+recovery or attempted recovery of treasure from
+sunken ships) 0.6 #combine(said island sanctuary permit activity one director tribe cultural salvage gold resources coin us may state found two designee barbuda))</text> </query>
+<query> <type>indri</type> <number>412</number> <text>#weight(0.4 #combine(airport security 
+ What security measures are in effect or are proposed
+to go into effect in airports) 0.6 #combine(information would faa aviation said passenger carrier airline baggage may system new part program one protect flight rule government use))</text> </query>
+<query> <type>indri</type> <number>413</number> <text>#weight(0.4 #combine(steel production 
+ What are new methods of producing steel) 0.6 #combine(material alloy metal market use produce property metallurgy develop company plant quality ensure per year level industry increase technology one))</text> </query>
+<query> <type>indri</type> <number>414</number> <text>#weight(0.4 #combine(Cuba sugar exports 
+ How much sugar does Cuba export and which
+countries import it) 0.6 #combine(tonne year industry market country production us said price would increase demand harvest supply years trade government last quota dollar))</text> </query>
+<query> <type>indri</type> <number>415</number> <text>#weight(0.4 #combine(drugs Golden Triangle 
+ What is known about drug trafficking in the
+Golden Triangle the area where Burma
+Thailand and Laos meet) 0.6 #combine(said khun country narcotic sa state border network fundamentalist opium international control world fund heroin cooperation team people news new))</text> </query>
+<query> <type>indri</type> <number>416</number> <text>#weight(0.4 #combine(Three Gorges Project 
+ What is the status of The Three Gorges Project) 0.6 #combine(china construction li resettle people peng area foreign state said work development dam water generator year party plant made manufacture))</text> </query>
+<query> <type>indri</type> <number>417</number> <text>#weight(0.4 #combine(creativity 
+ Find ways of measuring creativity) 0.6 #combine(people research one work japan creative said productivity new also company may high risk say individual mental industry study computer))</text> </query>
+<query> <type>indri</type> <number>418</number> <text>#weight(0.4 #combine(quilts income 
+ In what ways have quilts been used to generate income) 0.6 #combine(say said per would home cent people years one retirement work old house pattern money make family many plan could))</text> </query>
+<query> <type>indri</type> <number>419</number> <text>#weight(0.4 #combine(recycle automobile tires 
+ What new uses have been developed for old
+automobile tires as a means of tire recycling) 0.6 #combine(car material battery technology engine plant vehicle made body landfill million alloy nissan said years steel canyon energy require motor))</text> </query>
+<query> <type>indri</type> <number>420</number> <text>#weight(0.4 #combine(carbon monoxide poisoning 
+ How widespread is carbon monoxide poisoning on 
+a global scale) 0.6 #combine(said people air gas one plant san home call us cause mexia would quantum official found also diego pollution death))</text> </query>
+<query> <type>indri</type> <number>421</number> <text>#weight(0.4 #combine(industrial waste disposal 
+ How is the disposal of industrial waste being accomplished
+by industrial management throughout the world) 0.6 #combine(security market france price relevant offering rule trade period issue transactions distribution information list material cob use may regulation shall))</text> </query>
+<query> <type>indri</type> <number>422</number> <text>#weight(0.4 #combine(art stolen forged
+ What incidents have there been of stolen or forged art) 0.6 #combine(said ticket museum police cel theft one airline travel works dealer painting thief new people two would market use million))</text> </query>
+<query> <type>indri</type> <number>423</number> <text>#weight(0.4 #combine(Milosevic Mirjana Markovic 
+ Find references to Milosevic wife Mirjana Markovic) 0.6 #combine(percent company 94 1993 million billion bank au government serbia also foreign year increase state 1992 minister january said industry))</text> </query>
+<query> <type>indri</type> <number>424</number> <text>#weight(0.4 #combine(suicides 
+ Give examples of alleged suicides that aroused suspicion
+of the death actually being murder) 0.6 #combine(said mr brown wife payne investigate adkin police case navy may last marine would report could charge kevorkian kill found))</text> </query>
+<query> <type>indri</type> <number>425</number> <text>#weight(0.4 #combine(counterfeiting money 
+ What counterfeiting of money is being done in
+modern times) 0.6 #combine(bill said note bank investigate case year would oblast campus currency million russia crime found law could two use equipment))</text> </query>
+<query> <type>indri</type> <number>426</number> <text>#weight(0.4 #combine(law enforcement dogs 
+ Provide information on the use of dogs worldwide for 
+law enforcement purposes) 0.6 #combine(borrow grant loan project funds rea fund development account rural program section said paragraph revolving require economic may officer requirement))</text> </query>
+<query> <type>indri</type> <number>427</number> <text>#weight(0.4 #combine(UV damage eyes 
+ Find documents that discuss the damage ultraviolet UV
+light from the sun can do to eyes) 0.6 #combine(skin use radiation wine said protection ray cancer exposure say bottle uva nm sunscreen one research health 2 may per))</text> </query>
+<query> <type>indri</type> <number>428</number> <text>#weight(0.4 #combine(declining birth rates 
+ Do any countries other than the US and China have
+a declining birth rate) 0.6 #combine(population family death plan years country children increase per growth also said decline women year one infant percent number control))</text> </query>
+<query> <type>indri</type> <number>429</number> <text>#weight(0.4 #combine(Legionnaires disease 
+ Identify outbreaks of Legionnaires disease) 0.6 #combine(water legionella patient nosocomial hospital use system control case infection prevention legionellosi spp pneumophila pneumonia al et infect risk 1))</text> </query>
+<query> <type>indri</type> <number>430</number> <text>#weight(0.4 #combine(killer bee attacks 
+ Identify instances of attacks on humans by Africanized 
+killer bees) 0.6 #combine(said county state one agriculture california honey san europe swarm kellum say official years people supervise diego sting bug beekeeper))</text> </query>
+<query> <type>indri</type> <number>431</number> <text>#weight(0.4 #combine(robotic technology 
+ What are the latest developments in robotic technology) 0.6 #combine(space industry use system japan europe say germany company service new production industrial control market years waste one research also))</text> </query>
+<query> <type>indri</type> <number>432</number> <text>#weight(0.4 #combine(profiling motorists police 
+ Do police departments use profiling to stop motorists) 0.6 #combine(said deputy officer jackson sheriff force county control drug speed also case city traffic would one car court los agency))</text> </query>
+<query> <type>indri</type> <number>433</number> <text>#weight(0.4 #combine(Greek philosophy stoicism 
+ Is there contemporary interest in the Greek
+philosophy of stoicism) 0.6 #combine(greece said olmo say one even vlasto people would albania socrates time reason new india defense pakistan also like first))</text> </query>
+<query> <type>indri</type> <number>434</number> <text>#weight(0.4 #combine(Estonia economy 
+ What is the state of the economy of Estonia) 0.6 #combine(russia bank one also people country government percent investment foreign economic minister price kroon year fuel meri laar republic say))</text> </query>
+<query> <type>indri</type> <number>435</number> <text>#weight(0.4 #combine(curbing population growth 
+ What measures have been taken worldwide and what 
+countries have been effective in curbing
+population growth) 0.6 #combine(country family plan rate government economic per one issue egypt increase people europe develop year problem china wolf women social))</text> </query>
+<query> <type>indri</type> <number>436</number> <text>#weight(0.4 #combine(railway accidents 
+ What are the causes of railway accidents throughout
+the world) 0.6 #combine(said transport year train lines station worker increase electric test car system staff government two drug locomotive electrify emergency percent))</text> </query>
+<query> <type>indri</type> <number>437</number> <text>#weight(0.4 #combine(deregulation gas electric 
+ What has been the experience of residential utility
+customers following deregulation of gas and electric) 0.6 #combine(company power edison said natural merger commission class propose california water public rate southern energy 1 heater would san market))</text> </query>
+<query> <type>indri</type> <number>438</number> <text>#weight(0.4 #combine(tourism increase 
+ What countries are experiencing an increase in
+tourism) 0.6 #combine(country cuba tourist world egypt development also industry foreign hotel people year market us sector new problem one million said))</text> </query>
+<query> <type>indri</type> <number>439</number> <text>#weight(0.4 #combine(inventions scientific discoveries 
+ What new inventions or scientific discoveries have been
+made) 0.6 #combine(research said company world information technology also product science patent one use us idea development would develop record may innovation))</text> </query>
+<query> <type>indri</type> <number>440</number> <text>#weight(0.4 #combine(child labor 
+ What steps are being taken by governments or corporations 
+to eliminate abuse of child labor) 0.6 #combine(department program service care military information said personnel would purpose federal bill system act individual usc agency children school hour))</text> </query>
+<query> <type>indri</type> <number>441</number> <text>#weight(0.4 #combine(Lyme disease 
+ How do you prevent and treat Lyme disease) 0.6 #combine(said tick case patient may health research new doctor medical cause one first people test go many california report hospital))</text> </query>
+<query> <type>indri</type> <number>442</number> <text>#weight(0.4 #combine(heroic acts 
+ Find accounts of selfless heroic acts by individuals or 
+small groups for the benefit of others or a cause) 0.6 #combine(people forces service airplane cover would part one nation entity propose general statement authority may comment arab flap said war))</text> </query>
+<query> <type>indri</type> <number>443</number> <text>#weight(0.4 #combine(US investment Africa 
+ What is the extent of US government and private
+investment in sub Saharan Africa) 0.6 #combine(per country cent bank foreign dollar world south subsaharan year adjust ghana growth market economic years average aid sector reform))</text> </query>
+<query> <type>indri</type> <number>444</number> <text>#weight(0.4 #combine(supercritical fluids
+ What are the potential uses for supercritical fluids
+as an environmental protection measure) 0.6 #combine(clean epa chemical machine test exposure section agency risk acceptable turbine process may i0x metal substitute solvent component issue petition))</text> </query>
+<query> <type>indri</type> <number>445</number> <text>#weight(0.4 #combine(women clergy 
+ What other countries besides the United States are considering 
+or have approved women as clergy persons) 0.6 #combine(church priest said ordination people would vote orthodox ordain royce one england synod first story bishop member religious say america))</text> </query>
+<query> <type>indri</type> <number>446</number> <text>#weight(0.4 #combine(tourists violence 
+ Where are tourists likely to be subjected to
+acts of violence causing bodily harm or death) 0.6 #combine(report egypt said police group case government security people person organization file use attack two palestinian also crime victim israel))</text> </query>
+<query> <type>indri</type> <number>447</number> <text>#weight(0.4 #combine(Stirling engine 
+ What new developments and applications are there
+for the Stirling engine) 0.6 #combine(technology energy power also industry project market sweden system company large use one heat technical support investment pump government percent))</text> </query>
+<query> <type>indri</type> <number>448</number> <text>#weight(0.4 #combine(ship losses 
+ Identify instances in which weather was a main or contributing
+factor in the loss of a ship at sea) 0.6 #combine(escort vessel must plan report oil section deck safety black said fleet require pound tanker information pollution space accident coast))</text> </query>
+<query> <type>indri</type> <number>449</number> <text>#weight(0.4 #combine(antibiotics ineffectiveness 
+ What has caused the current ineffectiveness of
+antibiotics against infections and what is
+the prognosis for new drugs) 0.6 #combine(disease aids cuba develop one said people world research patient transplant also system vaccine medicine pneumonia produce country year time))</text> </query>
+<query> <type>indri</type> <number>450</number> <text>#weight(0.4 #combine(King Hussein peace 
+ How significant a figure over the years was the late
+Jordanian King Hussein in furthering peace in the 
+Middle East) 0.6 #combine(israel mr said palestinian rabin would syria agreement economic also talks country state two politics arab minister yesterday last kings))</text> </query>
+</parameters>
