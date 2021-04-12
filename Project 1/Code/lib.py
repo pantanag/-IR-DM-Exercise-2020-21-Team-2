@@ -196,13 +196,14 @@ def make_dict(text):
 	stopwords.extend([word.capitalize() for word in stopwords])
 	pops = set(stopwords).intersection(counter.keys())
 	for i in pops:
-		counter.pop(i)	
+		counter.pop(i)
+	most_common = sorted(counter.items(),key = lambda pair: (-pair[1],pair[0]))	
 	#Return only first 50 words	
-	return counter.most_common(50)
+	return most_common[0:50]
 #Function to create json file for 20 most common terms
 def make_common20_file(filename,output_name):
 	dictionary = get_top15(filename)
-	num_queries = sorted(dictionary.keys())
+	num_queries = sorted(dictionary.keys())	
 	common20 = {}	
 	for num in num_queries: 
 		initList = []
