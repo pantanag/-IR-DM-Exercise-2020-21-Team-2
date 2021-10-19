@@ -21,6 +21,6 @@ The purpose of the second project was to understand the basics of machine learni
 
 <h3>Acknowledgments</h3>
 
-- [Visualizing Data with Seaborn]([Visualizations with Seaborn - Dimitris Effrosynidis (deffro.github.io)](https://deffro.github.io/data visualization/visualizations-with-seaborn/))
+- [Visualizing Data with Seaborn](https://deffro.github.io/data visualization/visualizations-with-seaborn/)
 - [Indri Project Explanation and Tips]([Indri Structured Query Retrieval (cmu.edu)](https://www.cs.cmu.edu/~lemur/3.1/IndriQueryLanguage.html))
 
