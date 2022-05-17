@@ -1,3 +1,4 @@
+<img src='Basic-Information-Retrieval-Process.png'>
 <h3>About</h3>
 
 ​	These two projects were part of the course Information Retrieval and Data Mining. The first project was for the Information Retrieval part and the second project was for the Machine Learning one. 
